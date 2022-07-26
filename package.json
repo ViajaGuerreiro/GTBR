@@ -1,0 +1,25 @@
+{
+  "name": "gtbr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViajaGuerreiro/GTBR.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViajaGuerreiro/GTBR/issues"
+  },
+  "homepage": "https://github.com/ViajaGuerreiro/GTBR#readme",
+  "dependencies": {
+    "next": "^12.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
